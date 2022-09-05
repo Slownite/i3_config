@@ -1,9 +1,9 @@
 #!bin/bash
-apt install i3
-apt install playerctl
-apt install feh
-apt install arandr
-apt install lxappearance
-apt install pavucontrol
-apt install i3blocks
+apt install i3 -y
+apt install playerctl -y
+apt install feh -y
+apt install arandr -y
+apt install lxappearance -y
+apt install pavucontrol -y
+apt install i3blocks -y
 
