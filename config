@@ -217,7 +217,7 @@ bar {
 bindsym $mod+shift+x exec i3lock --color "$bg-color"
 bindsym $mod+c exec google-chrome-stable
 #background
-exec_always feh --bg-scale /home/samuel/Pictures/rick_wallpaper.jpg
+exec_always nitrogen --restore
 #assign
 assign [class="chrome"] $ws1
 assign [class="kitty"] $ws2

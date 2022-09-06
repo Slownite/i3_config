@@ -1,7 +1,7 @@
 #!bin/bash
 apt install i3 -y
 apt install playerctl -y
-apt install feh -y
+apt install nitrogen -y
 apt install arandr -y
 apt install lxappearance -y
 apt install pavucontrol -y
