@@ -215,11 +215,11 @@ bar {
 
 # custom command
 bindsym $mod+shift+x exec i3lock --color "$bg-color"
-bindsym $mod+c exec google-chrome-stable
+bindsym $mod+c exec brave-browser
 #background
 exec_always nitrogen --restore
 #assign
-assign [class="chrome"] $ws1
+assign [class="brave-browser"] $ws1
 assign [class="kitty"] $ws2
 assign [class="Code"] $ws3
 
