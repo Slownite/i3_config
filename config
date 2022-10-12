@@ -219,7 +219,5 @@ bindsym $mod+c exec brave-browser
 #background
 exec_always nitrogen --restore
 #assign
-assign [class="brave-browser"] $ws1
 assign [class="kitty"] $ws2
-assign [class="Code"] $ws3
 
